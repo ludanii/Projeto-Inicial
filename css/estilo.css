@@ -16,6 +16,9 @@
 #container{
     margin: 20px;
 }
+#conteudo section{
+    line-height: 1.5;
+}
 @font-face {
   font-family: "backed";
   src: url("../fontes/backed.ttf") format("truetype");
