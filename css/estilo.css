@@ -21,12 +21,14 @@ h1 {
   color: red;
   text-align: center;
   font-family: "backed", Times;
-  font-style: normal;
 }
 h2 {
   font-family: georgia;
   font-family: 'backed';
-  font-style: normal;
+  font-weight: normal;
+}
+nav {
+    font-weight: bold;
 }
 #cabecalho {
   background-image: url("../img/img-01-banner-1280×640.png");
