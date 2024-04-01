@@ -19,6 +19,9 @@
 #conteudo section{
     line-height: 1.5;
 }
+p{
+    color: green;
+}
 @font-face {
   font-family: "backed";
   src: url("../fontes/backed.ttf") format("truetype");
