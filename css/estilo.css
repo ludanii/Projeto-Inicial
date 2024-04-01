@@ -49,6 +49,7 @@ nav {
   background-size: contain;
   background-position: center;
   background-size: cover;
+  background-color: blue;
 }
 
 /*Seletores de classe*/
