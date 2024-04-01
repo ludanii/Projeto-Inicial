@@ -22,6 +22,9 @@
 p{
     color: green;
 }
+footer{
+  border-top: 2px solid red;
+}
 @font-face {
   font-family: "backed";
   src: url("../fontes/backed.ttf") format("truetype");
