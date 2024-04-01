@@ -13,6 +13,9 @@
 /*Exemplo de seletores*/
 
 /*Seletores de tipo*/
+#container{
+    margin: 20px;
+}
 @font-face {
   font-family: "backed";
   src: url("../fontes/backed.ttf") format("truetype");
